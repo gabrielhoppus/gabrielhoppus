@@ -11,6 +11,8 @@
   
 - 😄 Fun fact: I gratuated in California, USA in Business Administration and Information Systems
   
+- 😄 Fun fact pt2: The Hoppus on my nickname is from Mark Hoppus, Blink 182's singer and bassist
+  
 <!--- 🔭 Check out my portfolio: https://linktr.ee/gabrielhoppus -->
 </h3>
 
