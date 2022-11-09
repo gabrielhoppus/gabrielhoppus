@@ -22,16 +22,15 @@
 </div>
 
 ## 📖 A brief history about me 
-<br>
-My name is Luiz Gabriel Macedo (but you can call me Gabe). I was born in Nilópolis - Rio de Janeiro, in Brazil.   
-I have always lived in Rio de Janeiro, but from 2014 to 2018 I moved to the United States where I graduated with the highest of honres in Business Administration and Information Systems from the California State University - Fresno.
+<h3>My name is Luiz Gabriel Macedo (but you can call me Gabe). I was born in Nilópolis - Rio de Janeiro, in Brazil.   
 
+  I have always lived in Rio de Janeiro, but from 2014 to 2018 I moved to the United States where I graduated with the highest of honres in Business Administration and Information Systems from the California State University - Fresno.
+  
 Since I was a kid I've been interested in any type of technology. The first one to ever catch my attention, was of course, video games. 
 
 But it took me a while to develop a real passion for programming and everything related to it, but since I had my first contact through programming logic courses in college I have always been really passionate about it. 
 
-I'm still developing my skills and knowledge and I hope that in the future I will be capable of making a difference in the world. 
-
+I'm still developing my skills and knowledge and I hope that in the future I will be capable of making a difference in the world. <h3>
 
 ## 📬 Find me at  
 <br>
