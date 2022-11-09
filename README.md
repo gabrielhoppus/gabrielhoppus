@@ -5,7 +5,7 @@
 - 🌱 I’m currently studying to be a full-stack developer at Driven Education
 - ⚡ Pronouns: he/him/his
 - 😄 Fun fact: I gratuated in California, USA in Business Administration and Information Systems
-- 🔭 Check out my portfolio: https://linktr.ee/gabrielhoppus
+<!--- 🔭 Check out my portfolio: https://linktr.ee/gabrielhoppus -->
 
 
 
