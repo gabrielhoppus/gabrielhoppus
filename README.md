@@ -38,6 +38,7 @@
 
 ## :snake:
   
-<img src="https://raw.githubusercontent.com/gabrielhoppus/gabrielhoppus/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/gabrielhoppus/gabrielhoppus/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
