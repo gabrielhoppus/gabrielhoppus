@@ -46,7 +46,7 @@ I'm still developing my skills and knowledge and I hope that in the future I wil
 
 ## ⚙️ &nbsp;My Github numbers
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielhoppus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielhoppus&show_icons=true&theme=dracula"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhoppus&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
