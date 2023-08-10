@@ -135,10 +135,11 @@ I'm still developing my skills and knowledge and I hope that in the future I wil
 </div>
 
 ###
-
+<!---
 ## :snake:
   
 ![Snake animation](https://github.com/gabrielhoppus/gabrielhoppus/blob/output/github-contribution-grid-snake.svg)
 
 
 ###
+-->
