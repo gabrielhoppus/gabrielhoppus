@@ -5,7 +5,7 @@
   
 - 👋 My name is Luiz Gabriel, but you can call me Gabe 
   
-- 🌱 I’m currently studying to be a full-stack developer at Driven Education
+- 🌱 I’m currently looking for opportunities
   
 - ⚡ Pronouns: he/him/his
   
